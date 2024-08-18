@@ -1,0 +1,1 @@
+rootProject.name = "com.javapda.ktor-server-integrate-database-duplicatepluginexception"
